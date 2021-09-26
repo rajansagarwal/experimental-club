@@ -40,7 +40,7 @@ import {
             fontSize={{ base: '40px', sm: '20px', md: '6xl', lg: '6xl', xl: '8xl' }}
             lineHeight={'110%'}
             color={'white'} >
-            A Few Initiatives
+            Portal
           </Heading>
           
           <Stack

@@ -29,7 +29,7 @@ import {
     </Link>
   </Button>
   <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '15px', sm: '18px', md: '20px', lg: '23px' }}>
-  <Link href="/initiatives">
+  <Link href="/portal">
     Portal
     </Link>
   </Button>
