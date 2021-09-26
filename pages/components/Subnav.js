@@ -30,12 +30,12 @@ import {
   </Button>
   <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '12px', sm: '15px', md: '20px' }}>
   <Link href="/initiatives">
-    Initiatives
+    Portal
     </Link>
   </Button>
   <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '12px', sm: '15px', md: '20px' }}>
   <Link href="/">
-    Hub
+    Upcoming
     </Link>
   </Button>
 </Stack>

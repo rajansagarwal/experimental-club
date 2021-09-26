@@ -20,9 +20,8 @@ export default function Home() {
       </Head>
 
       <main>
-      <Overhead/>
           <Hero/>
-          <Features/><Featurestwo/>
+          <Featurestwo/>
           <Midpage/>
           <Things/>
 

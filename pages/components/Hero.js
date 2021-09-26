@@ -18,9 +18,9 @@ import {
     return (
       <Flex
         w={'full'}
-        h={'40vh'}
+        h={'50vh'}
         backgroundImage={
-          "url('public/team.png')"
+          "url('https://raw.githubusercontent.com/itsrajan/decanew/main/public/team.png?token=APLRGTME45UIDUC4A5KMPCLBLH34A')"
         }
         backgroundSize={'cover'}
         backgroundPosition={'center center'}>
@@ -41,7 +41,7 @@ import {
             lineHeight={'110%'}
             color={'white'} >
             We are  {" "}
-            <Text as={'span'} color={'green.400'} bgGradient="linear(to-l, #7928CA,#FF0080)" bgClip="text">
+            <Text as={'span'} color={'green.400'} bgGradient="linear(to-r, #957ef1,#3c17cf)" bgClip="text">
               TFSS DECA
             </Text>
           </Heading>
