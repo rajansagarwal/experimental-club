@@ -18,7 +18,7 @@ import {
     return (
       <Flex
         w={'full'}
-        h={'45vh'}
+        h={'40vh'}
         backgroundImage={
           "url('https://raw.githubusercontent.com/itsrajan/decanew/main/public/team.png?token=APLRGTME45UIDUC4A5KMPCLBLH34A')"
         }

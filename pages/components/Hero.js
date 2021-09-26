@@ -20,7 +20,7 @@ import {
         w={'full'}
         h={'100vh'}
         backgroundImage={
-          "url('https://raw.githubusercontent.com/itsrajan/decanew/main/public/general.png?token=APLRGTLWCRIUU7CT5SWAOZDBLH5UE')"
+          "url('https://cloud-ghn6xcuv0-hack-club-bot.vercel.app/0hero__2_.png')"
         }
         backgroundSize={'cover'}
         backgroundPosition={'center center'}>
@@ -44,7 +44,7 @@ import {
             <Text as={'span'} color={'green.400'} bgGradient="linear(to-r, #4D83DE,#94b4eb)" bgClip="text">
               TFSS DECA
             </Text>
-          </Heading>
+          </Heading> 
           
           <Stack
             direction={'column'}
