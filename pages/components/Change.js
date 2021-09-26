@@ -17,12 +17,12 @@ export default function Change() {
     <Flex
       bg={useColorModeValue("#F9FAFB", "gray.600")}
       p={20}
-      pl={{ base: '10', sm: '10', md: '10', lg: '10%', xl: '1%', '2xl': '15%'}}
-      pr={{ base: '10', sm: '10', md: '10', lg: '10', xl: '1%', '2xl': '15%'}}
-      rounded="md"
+      pl={{ base: '10', sm: '10', md: '10', lg: '5%', xl: '5%', '2xl': '8%'}}
+      pr={{ base: '10', sm: '10', md: '10', lg: '5', xl: '5%', '2xl': '8%'}}
+      rounded="lg"
       w="full"
-      justifyContent="center"
-      alignItems="center"
+      justifyContent="left"
+      alignItems="left"
       pos="absolute"
       className="things"
     >
@@ -30,7 +30,7 @@ export default function Change() {
         shadow="xl"
         bg={useColorModeValue("white", "gray.800")}
         px={8}
-        py={20}
+        pt={8}
         mx="auto"
       >
         <SimpleGrid
@@ -46,19 +46,19 @@ export default function Change() {
               fontSize={{ base: "2xl", md: "4xl" }}
               fontWeight="extrabold"
               letterSpacing="tight"
-              textAlign={{ base: "center", md: "left" }}
+              textAlign={{ base: "left", md: "left" }}
               color={useColorModeValue("gray.900", "gray.400")}
               lineHeight={{ md: "shorter" }}
             >
-               The Change We Seek
+               What is Turner Fenton DECA?
             </chakra.h2>
             <chakra.p
               mb={5}
-              textAlign={{ base: "center", sm: "left" }}
+              textAlign={{ base: "left", sm: "left" }}
               color={useColorModeValue("gray.600", "gray.400")}
               fontSize={{ md: "lg" }}
             >
-              Umm tbh idk what to say here still waiting on edu team to give content lol Umm tbh idk what to say here still waiting on edu team to give content lol 
+              content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>
             </chakra.p>
             <Button
               w={{ base: "full", sm: "auto" }}
@@ -93,19 +93,19 @@ export default function Change() {
               fontSize={{ base: "2xl", md: "4xl" }}
               fontWeight="extrabold"
               letterSpacing="tight"
-              textAlign={{ base: "center", md: "left" }}
+              textAlign={{ base: "left", md: "left" }}
               color={useColorModeValue("gray.900", "gray.400")}
               lineHeight={{ md: "shorter" }}
             >
-              What Inspires Us.
+              The Change We Seek
             </chakra.h2>
             <chakra.p
               mb={5}
-              textAlign={{ base: "center", sm: "left" }}
+              textAlign={{ base: "left", sm: "left" }}
               color={useColorModeValue("gray.600", "gray.400")}
               fontSize={{ md: "lg" }}
             >
-              Umm tbh idk what to say here still waiting on edu team to give content lol Umm tbh idk what to say here still waiting on edu team to give content lol 
+              content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>
             </chakra.p>
             <Button
               w={{ base: "full", sm: "auto" }}
