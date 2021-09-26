@@ -18,24 +18,24 @@ import {
     return (
       <Flex>
         <Stack spacing={3} direction="row" align="center">
-  <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '12px', sm: '15px', md: '20px' }}>
+  <Button colorScheme="blackAlpha" size="lg" fontSize={{ base: '12px', sm: '15px', md: '20px', lg: '23px' }}>
       <Link href="/">
     Home
     </Link>
   </Button>
-  <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '12px', sm: '15px', md: '20px' }}>
+  <Button colorScheme="blackAlpha" size="lg" fontSize={{ base: '12px', sm: '15px', md: '20px', lg: '23px' }}>
   <Link href="/about">
     About
     </Link>
   </Button>
-  <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '12px', sm: '15px', md: '20px' }}>
+  <Button colorScheme="blackAlpha" size="lg" fontSize={{ base: '12px', sm: '15px', md: '20px', lg: '23px' }}>
   <Link href="/initiatives">
     Portal
     </Link>
   </Button>
-  <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '12px', sm: '15px', md: '20px' }}>
+  <Button colorScheme="blackAlpha" size="lg" fontSize={{ base: '12px', sm: '15px', md: '20px', lg: '23px' }}>
   <Link href="/">
-    Upcoming
+    Apply
     </Link>
   </Button>
 </Stack>

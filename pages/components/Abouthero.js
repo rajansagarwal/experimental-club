@@ -18,9 +18,9 @@ import {
     return (
       <Flex
         w={'full'}
-        h={'40vh'}
+        h={'45vh'}
         backgroundImage={
-          "url('https://images.unsplash.com/photo-1507120410856-1f35574c3b45?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3097&q=80')"
+          "url('https://raw.githubusercontent.com/itsrajan/decanew/main/public/team.png?token=APLRGTME45UIDUC4A5KMPCLBLH34A')"
         }
         backgroundSize={'cover'}
         backgroundPosition={'center center'}>

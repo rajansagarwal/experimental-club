@@ -21,9 +21,7 @@ export default function Home() {
 
       <main>
           <Hero/>
-          <Featurestwo/>
-          <Midpage/>
-          <Things/>
+
 
       </main>
 

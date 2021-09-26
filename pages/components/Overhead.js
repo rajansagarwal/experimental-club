@@ -11,14 +11,14 @@ import {
 const Overhead = () => {
   return (
     <Flex
-      bg={"#000"}
+      bg={"black"}
       p={1}
       w="full"
       alignItems="center"
       justifyContent="center"
       className="hiring"
     >
-     <Flex color={"gray.400"} bgGradient="linear(to-l, #7928CA,#FF0080)" bgClip="text" >We Are Hiring! Learn more.</Flex>
+     <Flex color={"gray.400"} bgGradient="linear(to-l, blue,lightblue)" bgClip="text" >Apply To Be A General Member!</Flex>
     </Flex>
   );
 };
