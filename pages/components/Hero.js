@@ -20,7 +20,7 @@ import {
         w={'full'}
         h={'40vh'}
         backgroundImage={
-          "url('https://cloud-68gh9ayi2-hack-club-bot.vercel.app/0hero.png')"
+          "url('public/team.png')"
         }
         backgroundSize={'cover'}
         backgroundPosition={'center center'}>
@@ -40,9 +40,9 @@ import {
             fontSize={{ base: '40px', sm: '20px', md: '6xl', lg: '6xl', xl: '8xl' }}
             lineHeight={'110%'}
             color={'white'} >
-            A Place To Grow, <br />We are  {" "}
+            We are  {" "}
             <Text as={'span'} color={'green.400'} bgGradient="linear(to-l, #7928CA,#FF0080)" bgClip="text">
-              Minds On
+              TFSS DECA
             </Text>
           </Heading>
           
