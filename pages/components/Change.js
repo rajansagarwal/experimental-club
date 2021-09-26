@@ -76,7 +76,7 @@ export default function Change() {
             w="full"
             h="full"
             py={48}
-            bg={useColorModeValue("gray.200", "gray.700")}
+            bg={"url('https://raw.githubusercontent.com/itsrajan/decanew/main/public/team.png?token=APLRGTME45UIDUC4A5KMPCLBLH34A')"}
           ></Box>
         </SimpleGrid>
         <SimpleGrid
