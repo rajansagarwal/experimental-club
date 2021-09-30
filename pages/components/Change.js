@@ -79,54 +79,7 @@ export default function Change() {
             bg={"url('https://raw.githubusercontent.com/itsrajan/decanew/main/public/team.png?token=APLRGTME45UIDUC4A5KMPCLBLH34A')"}
           ></Box>
         </SimpleGrid>
-        <SimpleGrid
-          alignItems="center"
-          columns={{ base: 1, md: 2 }}
-          flexDirection="column-reverse"
-          mb={24}
-          spacingY={{ base: 10, md: 32 }}
-          spacingX={{ base: 10, md: 24 }}
-        >
-          <Box order={{ base: "none", md: 2 }}>
-            <chakra.h2
-              mb={4}
-              fontSize={{ base: "2xl", md: "4xl" }}
-              fontWeight="extrabold"
-              letterSpacing="tight"
-              textAlign={{ base: "left", md: "left" }}
-              color={useColorModeValue("gray.900", "gray.400")}
-              lineHeight={{ md: "shorter" }}
-            >
-              The Change We Seek
-            </chakra.h2>
-            <chakra.p
-              mb={5}
-              textAlign={{ base: "left", sm: "left" }}
-              color={useColorModeValue("gray.600", "gray.400")}
-              fontSize={{ md: "lg" }}
-            >
-              
-              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>
-            </chakra.p>
-            <Button
-              w={{ base: "full", sm: "auto" }}
-              size="lg"
-              bg={useColorModeValue("gray.900", "gray.700")}
-              _hover={{ bg: useColorModeValue("gray.700", "gray.600") }}
-              color={useColorModeValue("gray.100", "gray.200")}
-              as="a"
-              
-            >
-              Learn More
-            </Button>
-          </Box>
-          <Box
-            w="full"
-            h="full"
-            py={48}
-            bg={useColorModeValue("gray.200", "gray.700")}
-          ></Box>
-        </SimpleGrid>
+       
         
       </Box>
       

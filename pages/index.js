@@ -20,6 +20,7 @@ export default function Home() {
 
       <main>
           <Hero/>
+          <Features/>
           <Change/>
 
 
