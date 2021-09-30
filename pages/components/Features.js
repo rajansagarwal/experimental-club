@@ -62,7 +62,7 @@ export default function Features() {
               color={"gray.900"}
             >
               <Text as={'span'} color={'green.400'} bgGradient="linear(to-l, #7928CA,#FF0080)" bgClip="text" fontSize={{ base: '24px', md: '40px' }}>
-              Turner Fenton's Largest Club
+              Turner Fenton\s Largest Club
             </Text>
             </chakra.p>
             <chakra.p

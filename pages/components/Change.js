@@ -58,7 +58,7 @@ export default function Change() {
               color={useColorModeValue("gray.600", "gray.400")}
               fontSize={{ md: "lg" }}
             >
-              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>
+              words<br/><br/>
             </chakra.p>
             <Button
               w={{ base: "full", sm: "auto" }}
