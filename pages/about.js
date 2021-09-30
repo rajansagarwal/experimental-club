@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Heading, Link } from '@chakra-ui/layout';
 import Abouthero from './components/Abouthero';
 import Features from './components/Features';
-import Overhead from './components/Overhead';
+import Card from './components/Card';
 import Team from './components/Team';
 import Change from './components/Change';
 import Midpage from './components/Midpage';
@@ -21,8 +21,7 @@ export default function About() {
 
       <main>
           <Abouthero/>
-          <Change/>
-          <Team/>
+          <Card/>
       </main>
 
     </div>

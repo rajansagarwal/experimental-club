@@ -19,7 +19,7 @@ export default function Change() {
       p={20}
       pl={{ base: '10', sm: '10', md: '10', lg: '5%', xl: '5%', '2xl': '8%'}}
       pr={{ base: '10', sm: '10', md: '10', lg: '5', xl: '5%', '2xl': '8%'}}
-      rounded="lg"
+      rounded="md"
       w="full"
       justifyContent="left"
       alignItems="left"
@@ -58,7 +58,7 @@ export default function Change() {
               color={useColorModeValue("gray.600", "gray.400")}
               fontSize={{ md: "lg" }}
             >
-              content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>
+              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>
             </chakra.p>
             <Button
               w={{ base: "full", sm: "auto" }}
@@ -105,7 +105,8 @@ export default function Change() {
               color={useColorModeValue("gray.600", "gray.400")}
               fontSize={{ md: "lg" }}
             >
-              content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content content <br/><br/>
+              
+              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>              We are here to businessize Turner Fenton's most dilligent, like-minded and dedicated students through a business-like club and competition. As TF's largest club for a while now, we know how to get stuff done. <br/><br/>
             </chakra.p>
             <Button
               w={{ base: "full", sm: "auto" }}

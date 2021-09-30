@@ -30,7 +30,7 @@ import {
   </Button>
   <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '15px', sm: '18px', md: '20px', lg: '23px' }}>
   <Link href="/portal">
-    Portal
+    Exams
     </Link>
   </Button>
   <Button colorScheme="blackAlpha" size="md" fontSize={{ base: '15px', sm: '18px', md: '20px', lg: '23px' }}>

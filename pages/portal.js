@@ -1,9 +1,9 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { Heading, Link } from '@chakra-ui/layout';
-import Initiativeshero from './components/Initiativeshero';
+import Portalhero from './components/Portalhero';
 import Features from './components/Features';
-import Overhead from './components/Overhead';
+import Exammeta from './components/Exammeta';
 import Team from './components/Team';
 import Change from './components/Change';
 import Midpage from './components/Midpage';
@@ -20,9 +20,8 @@ export default function Initiatives() {
       </Head>
 
       <main>
-      <Overhead/>
-          <Initiativeshero/>
-          <Change/>
+          <Portalhero/>
+          <Exammeta/>
           <Team/>
       </main>
 

@@ -4,9 +4,8 @@ import { Heading, Link } from '@chakra-ui/layout';
 import Hero from './components/Hero';
 import Features from './components/Features';
 import More from './components/More';
-import Overhead from './components/Overhead';
 import Things from './components/Things';
-import Midpage from './components/Midpage';
+import Change from './components/Change';
 import Featurestwo from './components/Featurestwo';
 import { Flex, Stack } from "@chakra-ui/react";
 
@@ -21,6 +20,7 @@ export default function Home() {
 
       <main>
           <Hero/>
+          <Change/>
 
 
       </main>
