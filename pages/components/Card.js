@@ -52,6 +52,7 @@ export default function Card() {
             width={282}
             objectFit={'cover'}
             src={IMAGE}
+            alt={'decaphoto'}
           />
         </Box>
         <Stack pt={10} align={'center'}>
@@ -110,6 +111,7 @@ export default function Card() {
             width={282}
             objectFit={'cover'}
             src={IMAGE}
+            alt={'decaphoto'}
           />
         </Box>
         <Stack pt={10} align={'center'}>
@@ -166,6 +168,7 @@ export default function Card() {
             width={282}
             objectFit={'cover'}
             src={IMAGE}
+            alt={'decaphoto'}
           />
         </Box>
         <Stack pt={10} align={'center'}>
@@ -224,6 +227,7 @@ export default function Card() {
             width={282}
             objectFit={'cover'}
             src={IMAGE}
+            alt={'decaphoto'}
           />
         </Box>
         <Stack pt={10} align={'center'}>
@@ -280,6 +284,7 @@ export default function Card() {
             width={282}
             objectFit={'cover'}
             src={IMAGE}
+            alt={'decaphoto'}
           />
         </Box>
         <Stack pt={10} align={'center'}>
